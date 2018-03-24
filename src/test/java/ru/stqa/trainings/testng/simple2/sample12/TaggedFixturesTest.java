@@ -30,5 +30,4 @@ public class TaggedFixturesTest {
   public void tearDown() {
     System.out.println("tearDown");
   }
-
 }
