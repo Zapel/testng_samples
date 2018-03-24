@@ -1,18 +1,18 @@
- <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>ru.stqa.trainings</groupId>
   <artifactId>testng_samples</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-    <name>testng_samples</name>
-    <url>http://maven.apache.org</url>
+  <name>testng_samples</name>
+  <url>http://maven.apache.org</url>
 
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
-  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
   <dependencies>
     <dependency>
       <groupId>org.testng</groupId>
@@ -36,14 +36,14 @@
       <plugin>
         <artifactId>maven-surefire-plugin</artifactId>
         <version>2.21.0</version>
- <configuration>
-<!--          <includes>
-            <include>**/*TestSuite.java</include>
-          </includes>-->
+        <configuration>
+          <!--          <includes>
+                      <include>**/*TestSuite.java</include>
+                    </includes>-->
           <suiteXmlFiles>
             <suiteXmlFile>src/test/resources/testng-methods.xml</suiteXmlFile>
           </suiteXmlFiles>
-</configuration>
+        </configuration>
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
