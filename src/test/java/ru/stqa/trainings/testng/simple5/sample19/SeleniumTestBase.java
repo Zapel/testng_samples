@@ -1,6 +1,7 @@
-package ru.stqa.trainings.testng.simple4.sample17;
+package ru.stqa.trainings.testng.simple5.sample19;
 
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
@@ -11,7 +12,7 @@ public class SeleniumTestBase {
 
   @BeforeSuite(alwaysRun = true)
   public void startBrowser() {
-    driver = new FirefoxDriver();
+    driver = new ChromeDriver();
   }
   
   @AfterSuite(alwaysRun = true)
