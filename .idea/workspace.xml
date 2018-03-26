@@ -2,12 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68e014dd-5dd1-46ca-8f24-04909a8e3dbe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng-dependent-groups.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_opencsv_opencsv_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/sample0/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/sample0/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/sample0/SecondTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/sample0/SecondTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample1/AnnotatedMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample1/AnnotatedMethodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample1/ChildOfAnnotatedMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample1/ChildOfAnnotatedMethodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumSuiteFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumSuiteFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample2/AnnotatedClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample2/AnnotatedClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample2/ChildOfAnnotatedClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample2/ChildOfAnnotatedClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample3/MethodFixturesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample3/MethodFixturesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample3/TwoBeforeMethodAnnotationsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample3/TwoBeforeMethodAnnotationsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample4/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample4/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample4/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample4/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample4/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample4/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample5/SeleniumMethodFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample5/SeleniumMethodFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample5/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample5/SeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample6/ClassFixtureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample6/ClassFixtureTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample7/ClassFixtureTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample7/ClassFixtureTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample7/ClassFixtureTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample7/ClassFixtureTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample7/ClassFixtureTestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample7/ClassFixtureTestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample8/SeleniumClassFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample8/SeleniumClassFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample8/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample8/SeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample9/BrowserFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample9/BrowserFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample9/LoginFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample9/LoginFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample9/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample9/SeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample11/TaggedMethodsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample11/TaggedMethodsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample12/TaggedFixturesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample12/TaggedFixturesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample13/GroupFixturesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample13/GroupFixturesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample14/PrioritiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample14/PrioritiesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/HardDependenciesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/HardDependenciesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/SoftDependenciesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/SoftDependenciesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-methods.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng-methods.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng-packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng-packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng_samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testng_samples.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,37 +58,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HardDependenciesTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/HardDependenciesTest.java">
+      <file leaf-file-name="testng-methods.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/testng-methods.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-              <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SoftDependenciesTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/SoftDependenciesTest.java">
+      <file leaf-file-name="testng-packages.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/testng-packages.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng-dependent-groups.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/testng-dependent-groups.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="68">
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -75,12 +92,8 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample9/BrowserFixture.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumSuiteFixture.java" />
         <option value="$PROJECT_DIR$/src/test/resources/testng-packages.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng-groups.xml" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng-methods.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample12/TaggedFixturesTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/HardDependenciesTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/testng-dependent-groups.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/testng-methods.xml" />
       </list>
     </option>
   </component>
@@ -135,20 +148,20 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="777" />
-    <option name="y" value="128" />
-    <option name="width" value="1042" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,44 +209,12 @@
               <item name="testng_samples" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="simple3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testng_samples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testng_samples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="simple3" type="462c0819:PsiDirectoryNode" />
-              <item name="sample14" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testng_samples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testng_samples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testng" type="462c0819:PsiDirectoryNode" />
-              <item name="simple3" type="462c0819:PsiDirectoryNode" />
-              <item name="sample15" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testng_samples" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testng_samples" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,17 +260,17 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ru.stqa.trainings.testng.sample0 in testng_samples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ru.stqa.trainings.testng.simple1.sample1 in testng_samples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testng_samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.stqa.trainings.testng.sample0.*" />
+          <option name="PATTERN" value="ru.stqa.trainings.testng.simple1.sample1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.stqa.trainings.testng.sample0" />
+      <option name="PACKAGE_NAME" value="ru.stqa.trainings.testng.simple1.sample1" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
@@ -325,22 +306,16 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="HardDependenciesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-methods.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testng_samples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.trainings.testng.simple3.sample15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ru.stqa.trainings.testng.simple3.sample15" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.trainings.testng.simple3.sample15.HardDependenciesTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng-methods.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -354,22 +329,16 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="PrioritiesTest.test2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-packages.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testng_samples" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.trainings.testng.simple3.sample14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ru.stqa.trainings.testng.simple3.sample14" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.trainings.testng.simple3.sample14.PrioritiesTest" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng-packages.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -383,19 +352,19 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="SoftDependenciesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SeleniumTest1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testng_samples" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.stqa.trainings.testng.simple3.sample15.*" />
+          <option name="PATTERN" value="ru.stqa.trainings.testng.simple1.sample10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="ru.stqa.trainings.testng.simple3.sample15" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.trainings.testng.simple3.sample15.SoftDependenciesTest" />
+      <option name="PACKAGE_NAME" value="ru.stqa.trainings.testng.simple1.sample10" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.trainings.testng.simple1.sample10.SeleniumTest1" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -435,19 +404,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.HardDependenciesTest" />
-      <item itemvalue="TestNG.PrioritiesTest.test2" />
-      <item itemvalue="JUnit.ru.stqa.trainings.testng.sample0 in testng_samples" />
-      <item itemvalue="TestNG.SoftDependenciesTest" />
+      <item itemvalue="TestNG.SeleniumTest1" />
+      <item itemvalue="TestNG.C:/java_projects/sources/testng_samples/src/test/resources/testng-packages.xml" />
+      <item itemvalue="JUnit.ru.stqa.trainings.testng.simple1.sample1 in testng_samples" />
+      <item itemvalue="TestNG.C:/java_projects/sources/testng_samples/src/test/resources/testng-methods.xml" />
       <item itemvalue="TestNG.C:/java_projects/sources/testng_samples/src/test/resources/testng-dependent-groups.xml" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/java_projects/sources/testng_samples/src/test/resources/testng-dependent-groups.xml" />
-        <item itemvalue="TestNG.HardDependenciesTest" />
-        <item itemvalue="TestNG.SoftDependenciesTest" />
-        <item itemvalue="JUnit.ru.stqa.trainings.testng.sample0 in testng_samples" />
-        <item itemvalue="TestNG.PrioritiesTest.test2" />
+        <item itemvalue="TestNG.C:/java_projects/sources/testng_samples/src/test/resources/testng-packages.xml" />
+        <item itemvalue="TestNG.C:/java_projects/sources/testng_samples/src/test/resources/testng-methods.xml" />
+        <item itemvalue="TestNG.SeleniumTest1" />
+        <item itemvalue="JUnit.ru.stqa.trainings.testng.simple1.sample1 in testng_samples" />
       </list>
     </recent_temporary>
   </component>
@@ -464,45 +433,44 @@
       <workItem from="1521795659388" duration="1122000" />
       <workItem from="1521796953802" duration="4656000" />
       <workItem from="1521801843729" duration="8695000" />
-      <workItem from="1521836694202" duration="195000" />
-      <workItem from="1521866080459" duration="5093000" />
+      <workItem from="1522065423195" duration="258000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrioritiesTest_test2 - 2018.03.24 at 12h 52m 36s.xml">
-      <configuration name="PrioritiesTest.test2" configurationId="TestNG" />
+    <history-entry file="C__java_projects_sources_testng_samples_src_test_resources_testng-packages_xml - 2018.03.23 at 15h 19m 44s.xml">
+      <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-packages.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HardDependenciesTest - 2018.03.24 at 12h 52m 46s.xml">
-      <configuration name="HardDependenciesTest" configurationId="TestNG" />
+    <history-entry file="C__java_projects_sources_testng_samples_src_test_resources_testng-packages_xml - 2018.03.23 at 15h 20m 29s.xml">
+      <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-packages.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HardDependenciesTest - 2018.03.24 at 12h 56m 33s.xml">
-      <configuration name="HardDependenciesTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ru_stqa_trainings_testng_sample0_in_testng_samples - 2018.03.24 at 12h 58m 16s.xml">
+    <history-entry file="ru_stqa_trainings_testng_sample0_in_testng_samples - 2018.03.23 at 15h 20m 52s.xml">
       <configuration name="ru.stqa.trainings.testng.sample0 in testng_samples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SoftDependenciesTest - 2018.03.24 at 13h 02m 05s.xml">
-      <configuration name="SoftDependenciesTest" configurationId="TestNG" />
+    <history-entry file="ru_stqa_trainings_testng_simple1_sample1_in_testng_samples - 2018.03.23 at 15h 21m 14s.xml">
+      <configuration name="ru.stqa.trainings.testng.simple1.sample1 in testng_samples" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HardDependenciesTest - 2018.03.24 at 13h 02m 18s.xml">
-      <configuration name="HardDependenciesTest" configurationId="TestNG" />
+    <history-entry file="SeleniumTest1 - 2018.03.23 at 15h 22m 38s.xml">
+      <configuration name="SeleniumTest1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SoftDependenciesTest - 2018.03.24 at 13h 02m 47s.xml">
-      <configuration name="SoftDependenciesTest" configurationId="TestNG" />
+    <history-entry file="C__java_projects_sources_testng_samples_src_test_resources_testng-packages_xml - 2018.03.23 at 15h 24m 41s.xml">
+      <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-packages.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HardDependenciesTest - 2018.03.24 at 13h 03m 30s.xml">
-      <configuration name="HardDependenciesTest" configurationId="TestNG" />
+    <history-entry file="C__java_projects_sources_testng_samples_src_test_resources_testng-methods_xml - 2018.03.23 at 16h 16m 10s.xml">
+      <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-methods.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SoftDependenciesTest - 2018.03.24 at 13h 04m 12s.xml">
-      <configuration name="SoftDependenciesTest" configurationId="TestNG" />
+    <history-entry file="C__java_projects_sources_testng_samples_src_test_resources_testng-packages_xml - 2018.03.23 at 16h 16m 24s.xml">
+      <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-packages.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="HardDependenciesTest - 2018.03.24 at 13h 05m 01s.xml">
-      <configuration name="HardDependenciesTest" configurationId="TestNG" />
+    <history-entry file="C__java_projects_sources_testng_samples_src_test_resources_testng-methods_xml - 2018.03.23 at 16h 16m 34s.xml">
+      <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-methods.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__java_projects_sources_testng_samples_src_test_resources_testng-dependent-groups_xml - 2018.03.26 at 14h 59m 31s.xml">
+      <configuration name="C:/java_projects/sources/testng_samples/src/test/resources/testng-dependent-groups.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19761000" />
+    <option name="totallyTimeSpent" value="14731000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,23 +482,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="777" y="128" width="1042" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32924107" />
-      <window_info id="simpleUML" order="2" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32924107" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32924107" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.305499" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15831557" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -538,8 +505,8 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32995737" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -561,41 +528,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/resources/testng-methods.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="136">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/testng-packages.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/sample0/FirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng-methods.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng-packages.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="68">
           <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
         </state>
       </provider>
@@ -758,6 +698,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/sample0/SecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumSuiteFixture.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -765,100 +718,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample11/TaggedMethodsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng-groups.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng-methods.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample12/TaggedFixturesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng-packages.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="57" selection-start-column="57" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple2/sample13/GroupFixturesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <element signature="e#356#357#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/sample0/SecondTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/sample0/FirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
+        <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
             <element signature="e#136#137#0" expanded="true" />
@@ -869,104 +731,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple1/sample10/SeleniumTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+        <state relative-caret-position="757">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample14/PrioritiesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng-methods.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/HardDependenciesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng-packages.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/stqa/trainings/testng/simple3/sample15/SoftDependenciesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/testng-dependent-groups.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="simpleUML.UMLToolWindowPlugin">
-    <General>
-      <option name="birdViewUpdateDelay" value="2000" />
-      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
-    </General>
-    <Classdiagram>
-      <option name="diagramTitleFont" value="SansSerif,1,12" />
-      <option name="diagramFont" value="SansSerif,0,10" />
-      <option name="defaultFieldsExpanded" value="false" />
-      <option name="defaultContructorsExpanded" value="false" />
-      <option name="defaultMethodsExpanded" value="false" />
-      <option name="showParameters" value="true" />
-      <option name="showTooltip" value="true" />
-      <option name="showReturnValues" value="true" />
-      <option name="longModifier" value="true" />
-      <option name="implementsBehaviour" value="1" />
-      <option name="extendsBehaviour" value="1" />
-      <option name="compartmentBehaviour" value="1" />
-      <option name="interfaceBackgroundColor" value="-6494306" />
-      <option name="abstractClassBackgroundColor" value="-1580132" />
-      <option name="classBackgroundColor" value="-6508057" />
-      <option name="diagramBackgroundColor" value="-1" />
-      <option name="useAntialiasedConnectors" value="true" />
-      <option name="quickSourceLinkColor" value="-16776961" />
-      <option name="quickDiagramLinkColor" value="-8454144" />
-      <option name="drawDecorations" value="false" />
-      <option name="hideFieldList" value="" />
-      <option name="showFieldList" value="" />
-      <option name="hideConstructorList" value="" />
-      <option name="showConstructorList" value="" />
-      <option name="hideMethodList" value="" />
-      <option name="showMethodList" value="" />
-      <option name="minimumFigureSize" value="0,0" />
-    </Classdiagram>
-    <Dependencydiagram>
-      <option name="diagramTitleFont" value="SansSerif,1,12" />
-      <option name="diagramFont" value="SansSerif,0,10" />
-      <option name="diagramBackgroundColor" value="-1" />
-      <option name="useAntialiasedConnectors" value="true" />
-      <option name="packageNameCompressionLevel" value="0" />
-    </Dependencydiagram>
-    <Packagediagram>
-      <option name="diagramTitleFont" value="SansSerif,0,12" />
-      <option name="diagramFont" value="SansSerif,0,10" />
-      <option name="packageBackgroundColor" value="-4144960" />
-      <option name="diagramBackgroundColor" value="-1" />
-      <option name="useAntialiasedConnectors" value="true" />
-      <option name="packageNameCompressionLevel" value="2" />
-    </Packagediagram>
   </component>
 </project>
